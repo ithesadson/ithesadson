@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+#KEDA Improvements
+Link to my new scaler creation PR that I sent to KEDA: https://github.com/kedacore/keda/pull/4355
+Link to my PR I sent to KEDA fixing a bug in the Cassandra Scaler: https://github.com/kedacore/keda/pull/4162
+
+#LibreOffice Improvements
+Link to my improvements to LibreOffice: https://gerrit.libreoffice.org/q/owner:thesadson%2540gmail.com
+
+
+
 <!--
 **ithesadson/ithesadson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
