@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Kubernetes Event-driven Autoscaling (KEDA)
+- 🔭 I’m currently working on ...
 
 - My contributions for KEDA  
 Link to my new scaler creation PR that I sent to KEDA: https://github.com/kedacore/keda/pull/4355  
