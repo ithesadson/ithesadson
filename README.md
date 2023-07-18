@@ -2,12 +2,10 @@
 
 - 🔭 I’m currently working on Helm.
 - 🌱 I’m currently learning programming language , Kubernetes and DevOps.
-
-- 👯 My contributions for open source projects:
-Link to my new scaler creation PR that I sent to KEDA: https://github.com/kedacore/keda/pull/4355  
-Link to my PR I sent to KEDA fixing a bug in the Cassandra Scaler: https://github.com/kedacore/keda/pull/4162  
-Link to my improvements to LibreOffice: https://gerrit.libreoffice.org/q/owner:thesadson%2540gmail.com
-
+- 👯 My contributions for some open source projects: KEDA & LibreOffice <br>
+link to my new scaler creation PR that I sent to KEDA: https://github.com/kedacore/keda/pull/4355  
+link to my PR I sent to KEDA fixing a bug in the Cassandra Scaler: https://github.com/kedacore/keda/pull/4162  
+link to my improvements to LibreOffice: https://gerrit.libreoffice.org/q/owner:thesadson%2540gmail.com
 - 📫 How to reach me: thesadson@gmail.com
 
 <!--
