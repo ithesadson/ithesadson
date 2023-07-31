@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Helm.
-- 🌱 I’m currently learning programming language , Kubernetes and DevOps.
+- 🔭 I'm currently working as a DevOps Intern at Ouva.
+- 🌱 I'm currently interested in DevOps, Helm, Kubernetes, Git, Linux and Open Source Projects. 
 - 👯 My contributions for some open source projects: KEDA & LibreOffice <br>
 link to my new scaler creation PR that I sent to KEDA: https://github.com/kedacore/keda/pull/4355  
 link to my PR I sent to KEDA fixing a bug in the Cassandra Scaler: https://github.com/kedacore/keda/pull/4162  
