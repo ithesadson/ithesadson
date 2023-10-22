@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm currently working as a DevOps Intern at Ouva.
+- 🔭 I am currently improving myself in DevOps.
 - 🌱 I'm currently interested in DevOps, Helm, Kubernetes, Git, Linux and Open Source Projects. 
 - 👯 My contributions for some open source projects: KEDA & LibreOffice <br>
 link to my new scaler creation PR that I sent to KEDA: https://github.com/kedacore/keda/pull/4355  
