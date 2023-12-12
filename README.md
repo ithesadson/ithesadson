@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I am currently DevOps Engineer at Ouva.
+- 🔭 I am currently DevOps Junior at Ouva.
 - 🌱 I'm currently interested in DevOps, Helm, Kubernetes, Git, Linux and Open Source Projects. 
 - 👯 My contributions for some open source projects: KEDA & LibreOffice <br>
 Link to my new scaler creation PR that I sent to [KEDA](https://github.com/kedacore/keda/pull/4355) <br>
