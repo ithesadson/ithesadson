@@ -7,8 +7,8 @@ Link to my new scaler creation PR that I sent to [KEDA](https://github.com/kedac
 Link to my PR I sent to KEDA fixing a bug in the [Cassandra Scaler](https://github.com/kedacore/keda/pull/4162)  <br>
 Link to my improvements to [LibreOffice](https://gerrit.libreoffice.org/q/owner:thesadson%2540gmail.com) <br>
 
-- ⚡ [My blog](https://medium.com/@ithesadson)
-- 📫 How to reach me: thesadson@gmail.com
+- ⚡ [My Medium Blog](https://medium.com/@ithesadson)
+- 📫 [How to Reach me](thesadson@gmail.com)
 
 <!--
 **ithesadson/ithesadson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
