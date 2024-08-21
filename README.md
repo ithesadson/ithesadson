@@ -7,7 +7,7 @@
     ⚡ Link to my PR I sent to KEDA fixing a bug in the [Cassandra Scaler](https://github.com/kedacore/keda/pull/4162)  <br>
     ⚡ Link to my improvements to [LibreOffice](https://gerrit.libreoffice.org/q/owner:thesadson%2540gmail.com) <br>
 
-- 🌙 Reach me via [Linkedin](https://www.linkedin.com/in/emircan-agac-0537b919a/)
+- 🌙 Reach me via [Linkedin](https://www.linkedin.com/in/emircan-agac/)
 - 💫 Medium [Blog](https://medium.com/@ithesadson)
 - 🗝️🗝️ Knowledge should be Free and Disseminated 🗝️🗝️
 
