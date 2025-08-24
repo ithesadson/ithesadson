@@ -8,8 +8,9 @@
     ⚡ Link to my improvements to [LibreOffice](https://gerrit.libreoffice.org/q/owner:thesadson%2540gmail.com) <br>
 
 - 🌙 About me [Social Links](https://guns.lol/ithesadson)
-- 🗝️🗝️ Knowledge should be Free and Disseminated 🗝️🗝️
+- ✍️ About me [My Blogs](https://medium.com/@ithesadson)
 
+- 🗝️🗝️ Knowledge should be Free and Disseminated 🗝️🗝️
 <!--
 **ithesadson/ithesadson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
