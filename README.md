@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🎯 I am currently Junior DevOps Engineer.
+- 🎯 I am currently DevOps Engineer.
 - 📚 I'm currently interested in Kubernetes, DevOps, Linux, Git, Helm, CNCF and Open Source Projects.
 - 🔓 My contributions for some open source projects: KEDA & LibreOffice. <br>
   - ⚡ Link to my new scaler creation PR that I sent to [KEDA](https://github.com/kedacore/keda/pull/4355) <br>
@@ -8,7 +8,7 @@
     ⚡ Link to my improvements to [LibreOffice](https://gerrit.libreoffice.org/q/owner:thesadson%2540gmail.com) <br>
 
 - 🔗 [Social Links](https://guns.lol/ithesadson)
-- ✍️ [My Blog](https://medium.com/@ithesadson)
+- ✍️ [Medium](https://medium.com/@ithesadson)
 
 - 🗝️🗝️ Knowledge should be Free and Disseminated 🗝️🗝️
 <!--
