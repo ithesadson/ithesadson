@@ -21,6 +21,7 @@ I am a DevOps Engineer with a strong passion for Kubernetes, Cloud-Native techno
   <a href="https://www.kubernetes.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
   <a href="https://helm.sh" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/></a>
+  <a href="https://goharbor.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Harbor-%2360B9D6.svg?style=for-the-badge&logo=harbor&logoColor=white" alt="Harbor"/></a>
   <br/>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins"/></a>
   <a href="https://about.gitlab.com/solutions/continuous-integration/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitLab%20CI-%23FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"/></a>
@@ -29,10 +30,6 @@ I am a DevOps Engineer with a strong passion for Kubernetes, Cloud-Native techno
   <a href="https://prometheus.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" alt="Prometheus"/></a>
   <a href="https://grafana.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/></a>
   <a href="https://www.elastic.co/what-is/elk-stack" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ELK%20Stack-%23005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="ELK Stack"/></a>
-  <br/>
-  <a href="https://www.aquasec.com/products/trivy/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Trivy-0C218F?style=for-the-badge&logo=aquasecurity&logoColor=white" alt="Trivy"/></a>
-  <a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube"/></a>
-  <a href="https://www.vaultproject.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Vault-%23FFEC6E.svg?style=for-the-badge&logo=hashicorp&logoColor=black" alt="HashiCorp Vault"/></a>
   <br/>
   <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Golang"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
