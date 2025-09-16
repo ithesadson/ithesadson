@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1>
-    Hey there, I'm ithesadson
+    Hey there, I'm Emircan
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-wave.gif?1531849430" width="30"/>
   </h1>
   <h3>A passionate DevOps Engineer from Türkiye 🇹🇷</h3>
@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-I am a DevOps Engineer with a strong passion for Kubernetes, Cloud-Native technologies, and the Open Source philosophy. My goal is to design, build, and maintain scalable, automated, and resilient infrastructure. I believe that knowledge should be free and accessible to everyone.
+I am a DevOps Engineer with a strong passion for Kubernetes, Cloud-Native technologies, and the Open Source philosophy. My goal is to design, build, and maintain scalable, automated, and resilient infrastructure, regardless of the underlying platform. I believe that knowledge should be free and accessible to everyone.
 
 ---
 
@@ -21,14 +21,28 @@ I am a DevOps Engineer with a strong passion for Kubernetes, Cloud-Native techno
   <a href="https://www.kubernetes.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
   <a href="https://helm.sh" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/></a>
-  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/></a>
+  <br/>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins"/></a>
+  <a href="https://about.gitlab.com/solutions/continuous-integration/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitLab%20CI-%23FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"/></a>
+  <a href="https://argo-cd.readthedocs.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Argo%20CD-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD"/></a>
+  <br/>
   <a href="https://prometheus.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" alt="Prometheus"/></a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/></a>
+  <a href="https://grafana.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/></a>
+  <a href="https://www.elastic.co/what-is/elk-stack" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ELK%20Stack-%23005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="ELK Stack"/></a>
+  <br/>
+  <a href="https://www.aquasec.com/products/trivy/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Trivy-0C218F?style=for-the-badge&logo=aquasecurity&logoColor=white" alt="Trivy"/></a>
+  <a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube"/></a>
+  <a href="https://www.vaultproject.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Vault-%23FFEC6E.svg?style=for-the-badge&logo=hashicorp&logoColor=black" alt="HashiCorp Vault"/></a>
+  <br/>
+  <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Golang"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bash-%234E9A25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/></a>
 </p>
+
+---
+
+### 🌱 Currently Learning
+I'm actively expanding my skills in cloud platforms and currently focusing on **AWS**. My goal is to achieve the AWS Certified Solutions Architect - Associate certification.
 
 ---
 
@@ -39,19 +53,10 @@ I actively contribute to open source projects. Here are some of my proudest cont
 -   **Pinpoint APM**
     -   🛡️ I am one of the maintainers of the official **[Pinpoint Helm Chart](https://github.com/pinpoint-apm/pinpoint-kubernetes/pull/24)**, helping to make Pinpoint deployment on Kubernetes seamless.
 -   **KEDA (Kubernetes Event-driven Autoscaling)**
-    -   ✨ Implemented a new custom scaler to extend KEDA's capabilities ([PR #4355](https://github.com/kedacore/keda/pull/4355)).
+    -   ✨ Authored the new **Solr Scaler** for KEDA, enabling scaling based on Solr query metrics ([PR #4355](https://github.com/kedacore/keda/pull/4355)).
     -   🐛 Fixed a critical bug in the Cassandra Scaler to improve its reliability ([PR #4162](https://github.com/kedacore/keda/pull/4162)).
 -   **LibreOffice**
     -   🛠️ Contributed various code improvements and bug fixes to the core application ([see my work](https://gerrit.libreoffice.org/q/owner:thesadson%2540gmail.com)).
-
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ithesadson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="ithesadson's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ithesadson&layout=compact&theme=tokyonight" alt="ithesadson's Top Languages" />
-</p>
 
 ---
 
