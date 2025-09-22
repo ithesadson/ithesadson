@@ -60,7 +60,7 @@ I actively contribute to open source projects. Here are some of my proudest cont
 ### 📫 How to Reach Me
 
 <p align="center">
-  <a href="https://medium.com/@ithesadson" target="_blank">
+  <a href="https://medium.com/@thesadson" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
   <a href="https://guns.lol/ithesadson" target="_blank">
